@@ -1,0 +1,23 @@
+{
+  "name": "nagih-whatsapp",
+  "version": "0.1.0",
+  "description": "Asisten WhatsApp untuk nagih & invoicing freelancer Indonesia — invoice terstruktur + reminder naik-turun nada (halus → tegas). MVP manual payment.",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "invoice",
+    "freelancer",
+    "reminder",
+    "indonesia",
+    "invoicing"
+  ],
+  "author": "jhonsonsmith694-pixel",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  }
+}
